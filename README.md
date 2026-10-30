@@ -22,7 +22,7 @@ The project is structured around reusable functions:
 
 The functions are used to create different parts of the landscape. A loop is also used to draw multiple flowers, making the drawing easier to create and organize. The screenshot of the drawing is as below:
 
-![Example Output](peaceful_landscape.png)
+![Example Output](Screenshot_20261030-142014~2.jpg)
 
 ## How to Run
 
